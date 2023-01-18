@@ -1,8 +1,0 @@
-export default {
-  'EXCELLENT': 'EXCELLENT',
-  'GREAT': 'GREAT',
-  'OKAY': 'OKAY',
-  'WEAK': 'WEAK',
-  'UNUSABLE': 'UNUSABLE',
-  'DISCONNECTED': 'DISCONNECTED',
-};

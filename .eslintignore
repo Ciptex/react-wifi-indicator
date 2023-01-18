@@ -1,0 +1,8 @@
+build
+node_modules
+public
+unused
+*.test.tsx
+*.test.ts
+dist
+example
